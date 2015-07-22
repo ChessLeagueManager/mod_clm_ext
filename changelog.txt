@@ -11,7 +11,8 @@ $ -> Language fix or change
 - -> Removed
 ! -> Note
 
-- - - - - 1.2.4 - [xx-xx-2014] - - - - - - - - - - - - - - - - - - - -
+- - - - - 3.2.3 - [18-04-2015] - - - - - - - - - - - - - - - - - - - -
+! Vermeidung gleicher Versionsnummern in verschiedenen CLM Versionen
 
 - - - - - 1.2.3 - [09-09-2014] - - - - - - - - - - - - - - - - - - - -
 # idna_convert von Net_IDNA_php4 abgetrennt
