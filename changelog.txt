@@ -11,6 +11,9 @@ $ -> Language fix or change
 - -> Removed
 ! -> Note
 
+- - - - - 3.2.4 - [16-07-2017] - - - - - - - - - - - - - - - - - - - -
+^ idna_convert Anpassung an PHP7
+
 - - - - - 3.2.3 - [18-04-2015] - - - - - - - - - - - - - - - - - - - -
 ! Vermeidung gleicher Versionsnummern in verschiedenen CLM Versionen
 
